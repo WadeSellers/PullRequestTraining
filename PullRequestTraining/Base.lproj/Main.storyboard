@@ -80,10 +80,10 @@
                                 <exclude reference="9N8-qI-JmG"/>
                             </mask>
                             <mask key="constraints">
-                                <exclude reference="RTT-E3-6Xt"/>
-                                <exclude reference="zjA-Ln-PSk"/>
                                 <exclude reference="DeO-o4-ZAT"/>
                                 <exclude reference="irn-XK-6Ul"/>
+                                <exclude reference="RTT-E3-6Xt"/>
+                                <exclude reference="zjA-Ln-PSk"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
@@ -92,10 +92,10 @@
                                 <include reference="9N8-qI-JmG"/>
                             </mask>
                             <mask key="constraints">
-                                <include reference="RTT-E3-6Xt"/>
-                                <include reference="zjA-Ln-PSk"/>
                                 <include reference="DeO-o4-ZAT"/>
                                 <include reference="irn-XK-6Ul"/>
+                                <include reference="RTT-E3-6Xt"/>
+                                <include reference="zjA-Ln-PSk"/>
                             </mask>
                         </variation>
                     </view>
