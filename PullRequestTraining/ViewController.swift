@@ -16,9 +16,9 @@ class ViewController: UIViewController {
     super.viewDidLoad()
     // Do any additional setup after loading the view, typically from a nib.
 
-    self.view.backgroundColor = UIColor.greenColor()
+    self.view.backgroundColor = UIColor.redColor()
 
-    labelToModify.text = "We will branch off and change this"
+    labelToModify.text = "I updated the label"
 
 
   }
