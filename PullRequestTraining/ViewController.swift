@@ -10,9 +10,17 @@ import UIKit
 
 class ViewController: UIViewController {
 
+  @IBOutlet weak var labelToModify: UILabel!
+
   override func viewDidLoad() {
     super.viewDidLoad()
     // Do any additional setup after loading the view, typically from a nib.
+
+    self.view.backgroundColor = UIColor.greenColor()
+
+    labelToModify.text = "We will branch off and change this"
+
+
   }
 
   override func didReceiveMemoryWarning() {
