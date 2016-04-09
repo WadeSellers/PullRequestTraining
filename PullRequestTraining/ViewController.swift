@@ -18,7 +18,7 @@ class ViewController: UIViewController {
 
     self.view.backgroundColor = UIColor.redColor()
 
-    labelToModify.text = "We have updated the label"
+    labelToModify.text = "I updated the label"
 
 
   }
